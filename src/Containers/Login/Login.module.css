@@ -1,0 +1,11 @@
+.navi {
+    height : 70px; 
+    background-color : #88B77B;
+    display : flex ;
+    align-items: center;
+}
+
+.navi > p {
+    font-size: 22px;
+    float : right ;
+}
